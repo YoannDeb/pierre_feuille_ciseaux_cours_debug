@@ -95,7 +95,6 @@ class PierreFeuilleCiseaux:
 
 
 from tkinter import PhotoImage, Tk, Label, Button
-pdb.set_trace()
 
 fenetre = Tk()
 fenetre.title("Pierre Feuille Ciseaux")
